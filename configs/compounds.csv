@@ -1,0 +1,14 @@
+compound_id,name,pubchem_cid,drug_class,rationale
+FEN,Fenbendazole,3334,Anthelmintic,β-tubulin inhibition; p53 activation
+IVE,Ivermectin,6321424,Anthelmintic,PAK1/importin-β1/P-gp inhibition
+MEB,Mebendazole,4030,Anthelmintic,Tubulin binding; well-studied in cancer
+ALB,Albendazole,2082,Anthelmintic,Tubulin binding; GLUT inhibition
+NIC,Niclosamide,4477,Anthelmintic,WNT/STAT3/mTOR pathway inhibition
+NIT,Nitazoxanide,41684,Antiparasitic,STAT3/c-Myc inhibition
+PRA,Praziquantel,4891,Anthelmintic,Under-studied — gap to fill
+ITR,Itraconazole,55283,Antifungal,Hedgehog pathway; angiogenesis inhibition
+KET,Ketoconazole,456201,Antifungal,Steroidogenesis inhibition
+MET,Metformin,4091,Antidiabetic,AMPK activation; mTOR inhibition
+DIS,Disulfiram,3117,Other,Proteasome inhibition (copper-dependent)
+CLQ,Chloroquine,2719,Antimalarial,Autophagy inhibition
+AUR,Auranofin,6333901,Antirheumatic,Thioredoxin reductase inhibition

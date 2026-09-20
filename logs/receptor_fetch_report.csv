@@ -1,0 +1,9 @@
+target_id,name,pdb_id,success,resolution_A,method,file_size_kb,title
+BTUB,β-Tubulin,4O2B,True,2.3,X-ray,2980.2,Tubulin-Colchicine complex
+IMPA,Importin-α (NLS),4WV6,True,1.75,X-ray,916.2,Heterodimer of Importin alpha 1 with nuclear localization signal of TAF8
+PAK1,PAK1 kinase,2HY8,True,2.0,X-ray,228.0,PAK1 complex with ST2001
+GLU1,GLUT1 transporter,5EQI,True,3.002,X-ray,601.2,Human GLUT1 in complex with Cytochalasin B
+STA3,STAT3,6NJS,True,2.7,X-ray,405.1,Stat3 Core in complex with compound SD36
+MDM2,MDM2 (p53 pathway),4HG7,True,1.6,X-ray,182.2,Crystal Structure of an MDM2/Nutlin-3a complex
+WFZD,Frizzled CRD (WNT),6TFB,True,1.68,X-ray,375.4,Carbamazepine binds Frizzled8
+TRXR,Thioredoxin reductase 1,2ZZB,True,3.2,X-ray,1328.7,Crystal structure of human thioredoxin reductase I and terpyridine platinum(II)

@@ -1,0 +1,105 @@
+compound_id,target_id,compound_name,target_name,priority,vina_affinity_kcal,n_poses,status,time_sec
+KET,BTUB,Ketoconazole,β-Tubulin,LOW,-11.32,9,OK,63.3
+PRA,BTUB,Praziquantel,β-Tubulin,MEDIUM,-10.08,9,OK,15.1
+MEB,BTUB,Mebendazole,β-Tubulin,HIGH,-9.563,9,OK,16.8
+FEN,BTUB,FEN,BTUB,UNKNOWN,-9.099,9,OK,0.0
+NIC,BTUB,Niclosamide,β-Tubulin,LOW,-8.981,9,OK,16.7
+NIT,BTUB,Nitazoxanide,β-Tubulin,LOW,-8.532,9,OK,19.7
+CLQ,BTUB,Chloroquine,β-Tubulin,LOW,-7.658,9,OK,28.3
+ALB,BTUB,Albendazole,β-Tubulin,HIGH,-7.22,9,OK,14.8
+ITR,BTUB,Itraconazole,β-Tubulin,LOW,-5.653,9,OK,79.0
+MET,BTUB,Metformin,β-Tubulin,LOW,-5.458,9,OK,5.7
+DIS,BTUB,Disulfiram,β-Tubulin,LOW,-5.21,9,OK,16.5
+IVE,BTUB,Ivermectin,β-Tubulin,LOW,1.22,9,OK,154.9
+AUR,BTUB,Auranofin,β-Tubulin,LOW,,0,PARSE_ERROR,0.1
+IVE,GLU1,Ivermectin,GLUT1 transporter,LOW,-12.17,9,OK,119.9
+ITR,GLU1,Itraconazole,GLUT1 transporter,LOW,-10.76,9,OK,110.9
+KET,GLU1,Ketoconazole,GLUT1 transporter,LOW,-10.43,9,OK,51.9
+PRA,GLU1,Praziquantel,GLUT1 transporter,LOW,-9.629,9,OK,12.5
+NIC,GLU1,Niclosamide,GLUT1 transporter,LOW,-8.68,9,OK,14.7
+MEB,GLU1,Mebendazole,GLUT1 transporter,MEDIUM,-8.533,9,OK,14.7
+FEN,GLU1,FEN,GLU1,UNKNOWN,-8.056,9,OK,0.0
+NIT,GLU1,Nitazoxanide,GLUT1 transporter,LOW,-7.975,9,OK,16.2
+CLQ,GLU1,Chloroquine,GLUT1 transporter,LOW,-6.822,9,OK,24.3
+ALB,GLU1,Albendazole,GLUT1 transporter,HIGH,-6.733,9,OK,13.0
+DIS,GLU1,Disulfiram,GLUT1 transporter,LOW,-5.183,9,OK,13.8
+MET,GLU1,Metformin,GLUT1 transporter,HIGH,-4.971,9,OK,4.7
+AUR,GLU1,Auranofin,GLUT1 transporter,LOW,,0,PARSE_ERROR,0.1
+IVE,IMPA,Ivermectin,Importin-α (NLS),LOW,-9.473,9,OK,121.4
+ITR,IMPA,Itraconazole,Importin-α (NLS),LOW,-8.835,9,OK,60.7
+KET,IMPA,Ketoconazole,Importin-α (NLS),LOW,-7.993,9,OK,57.5
+PRA,IMPA,Praziquantel,Importin-α (NLS),LOW,-7.357,9,OK,14.9
+MEB,IMPA,Mebendazole,Importin-α (NLS),LOW,-7.296,9,OK,16.9
+FEN,IMPA,FEN,IMPA,UNKNOWN,-6.859,9,OK,0.0
+NIC,IMPA,Niclosamide,Importin-α (NLS),LOW,-6.67,9,OK,16.6
+NIT,IMPA,Nitazoxanide,Importin-α (NLS),LOW,-6.319,9,OK,19.0
+ALB,IMPA,Albendazole,Importin-α (NLS),LOW,-5.493,9,OK,14.3
+CLQ,IMPA,Chloroquine,Importin-α (NLS),LOW,-5.375,9,OK,28.3
+MET,IMPA,Metformin,Importin-α (NLS),LOW,-4.828,9,OK,5.2
+DIS,IMPA,Disulfiram,Importin-α (NLS),LOW,-3.846,9,OK,14.9
+AUR,IMPA,Auranofin,Importin-α (NLS),LOW,,0,PARSE_ERROR,0.1
+PRA,MDM2,Praziquantel,MDM2 (p53 pathway),LOW,-8.819,9,OK,12.8
+IVE,MDM2,Ivermectin,MDM2 (p53 pathway),LOW,-8.043,9,OK,124.3
+MEB,MDM2,Mebendazole,MDM2 (p53 pathway),HIGH,-7.97,9,OK,16.3
+ITR,MDM2,Itraconazole,MDM2 (p53 pathway),LOW,-7.879,9,OK,85.2
+FEN,MDM2,Fenbendazole,MDM2 (p53 pathway),HIGH,-7.704,9,OK,15.4
+KET,MDM2,Ketoconazole,MDM2 (p53 pathway),LOW,-7.558,9,OK,59.5
+NIC,MDM2,Niclosamide,MDM2 (p53 pathway),LOW,-7.127,9,OK,19.0
+CLQ,MDM2,Chloroquine,MDM2 (p53 pathway),MEDIUM,-6.984,9,OK,26.3
+NIT,MDM2,Nitazoxanide,MDM2 (p53 pathway),HIGH,-6.418,9,OK,17.0
+ALB,MDM2,Albendazole,MDM2 (p53 pathway),LOW,-6.266,9,OK,13.5
+DIS,MDM2,Disulfiram,MDM2 (p53 pathway),MEDIUM,-4.877,9,OK,13.8
+MET,MDM2,Metformin,MDM2 (p53 pathway),LOW,-4.024,9,OK,4.3
+AUR,MDM2,Auranofin,MDM2 (p53 pathway),LOW,,0,PARSE_ERROR,0.0
+KET,PAK1,Ketoconazole,PAK1 kinase,LOW,-8.787,9,OK,58.9
+IVE,PAK1,Ivermectin,PAK1 kinase,HIGH,-8.578,9,OK,151.3
+PRA,PAK1,Praziquantel,PAK1 kinase,LOW,-8.501,9,OK,15.3
+MEB,PAK1,Mebendazole,PAK1 kinase,LOW,-8.419,9,OK,14.5
+ITR,PAK1,Itraconazole,PAK1 kinase,MEDIUM,-8.374,9,OK,82.5
+FEN,PAK1,FEN,PAK1,UNKNOWN,-7.726,9,OK,0.0
+NIC,PAK1,Niclosamide,PAK1 kinase,MEDIUM,-7.471,9,OK,14.3
+NIT,PAK1,Nitazoxanide,PAK1 kinase,LOW,-7.273,9,OK,15.9
+ALB,PAK1,Albendazole,PAK1 kinase,LOW,-6.497,9,OK,12.8
+CLQ,PAK1,Chloroquine,PAK1 kinase,LOW,-6.165,9,OK,24.6
+DIS,PAK1,Disulfiram,PAK1 kinase,LOW,-4.543,9,OK,13.7
+MET,PAK1,Metformin,PAK1 kinase,MEDIUM,-4.219,9,OK,4.3
+AUR,PAK1,Auranofin,PAK1 kinase,LOW,,0,PARSE_ERROR,0.0
+IVE,STA3,Ivermectin,STAT3,MEDIUM,-8.648,9,OK,106.1
+ITR,STA3,Itraconazole,STAT3,LOW,-7.718,9,OK,65.4
+MEB,STA3,Mebendazole,STAT3,LOW,-7.076,9,OK,18.6
+KET,STA3,Ketoconazole,STAT3,LOW,-6.836,9,OK,57.3
+PRA,STA3,Praziquantel,STAT3,LOW,-6.646,9,OK,12.6
+FEN,STA3,Fenbendazole,STAT3,MEDIUM,-6.384,9,OK,16.9
+NIC,STA3,Niclosamide,STAT3,HIGH,-6.035,9,OK,22.3
+NIT,STA3,Nitazoxanide,STAT3,HIGH,-5.852,9,OK,19.3
+CLQ,STA3,Chloroquine,STAT3,HIGH,-5.622,9,OK,27.4
+ALB,STA3,Albendazole,STAT3,LOW,-5.509,9,OK,14.5
+MET,STA3,Metformin,STAT3,MEDIUM,-4.222,9,OK,4.4
+DIS,STA3,Disulfiram,STAT3,LOW,-3.796,9,OK,14.5
+AUR,STA3,Auranofin,STAT3,LOW,,0,PARSE_ERROR,0.1
+KET,TRXR,Ketoconazole,Thioredoxin reductase 1,MEDIUM,-10.17,9,OK,64.8
+PRA,TRXR,Praziquantel,Thioredoxin reductase 1,LOW,-8.985,9,OK,14.2
+MEB,TRXR,Mebendazole,Thioredoxin reductase 1,LOW,-8.8,9,OK,16.5
+FEN,TRXR,Fenbendazole,Thioredoxin reductase 1,LOW,-8.488,9,OK,21.3
+NIC,TRXR,Niclosamide,Thioredoxin reductase 1,LOW,-7.852,9,OK,17.4
+NIT,TRXR,Nitazoxanide,Thioredoxin reductase 1,LOW,-7.391,9,OK,17.8
+ALB,TRXR,Albendazole,Thioredoxin reductase 1,LOW,-7.098,9,OK,17.9
+CLQ,TRXR,Chloroquine,Thioredoxin reductase 1,LOW,-6.944,9,OK,27.9
+ITR,TRXR,Itraconazole,Thioredoxin reductase 1,LOW,-5.438,9,OK,101.2
+DIS,TRXR,Disulfiram,Thioredoxin reductase 1,HIGH,-5.119,9,OK,15.5
+MET,TRXR,Metformin,Thioredoxin reductase 1,LOW,-5.108,9,OK,5.7
+IVE,TRXR,Ivermectin,Thioredoxin reductase 1,LOW,-9.779,9,OK,180.0
+AUR,TRXR,Auranofin,Thioredoxin reductase 1,HIGH,,0,PARSE_ERROR,0.1
+PRA,WFZD,Praziquantel,Frizzled CRD (WNT),MEDIUM,-7.465,9,OK,13.1
+IVE,WFZD,Ivermectin,Frizzled CRD (WNT),HIGH,-7.398,9,OK,165.7
+MEB,WFZD,Mebendazole,Frizzled CRD (WNT),LOW,-7.039,9,OK,16.3
+KET,WFZD,Ketoconazole,Frizzled CRD (WNT),LOW,-6.937,9,OK,65.3
+FEN,WFZD,Fenbendazole,Frizzled CRD (WNT),LOW,-6.78,9,OK,17.6
+ITR,WFZD,Itraconazole,Frizzled CRD (WNT),HIGH,-6.77,9,OK,95.9
+NIC,WFZD,Niclosamide,Frizzled CRD (WNT),HIGH,-6.418,9,OK,15.3
+NIT,WFZD,Nitazoxanide,Frizzled CRD (WNT),LOW,-6.261,9,OK,20.0
+ALB,WFZD,Albendazole,Frizzled CRD (WNT),LOW,-5.673,9,OK,14.0
+CLQ,WFZD,Chloroquine,Frizzled CRD (WNT),LOW,-5.556,9,OK,26.9
+MET,WFZD,Metformin,Frizzled CRD (WNT),LOW,-4.599,9,OK,4.4
+DIS,WFZD,Disulfiram,Frizzled CRD (WNT),LOW,-4.198,9,OK,14.8
+AUR,WFZD,Auranofin,Frizzled CRD (WNT),LOW,,0,PARSE_ERROR,0.0

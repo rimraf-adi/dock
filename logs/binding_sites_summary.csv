@@ -1,0 +1,9 @@
+target_id,name,pdb_id,center,box_size,source
+BTUB,β-Tubulin,4O2B,"(19.416, 63.584, 37.857)",32.0 x 32.0 x 32.0,Co-crystal ligand in 4O2B (LOC)
+IMPA,Importin-α (NLS),4WV6,"(-11.861, -15.023, 20.09)",32.0 x 28.6 x 32.0,Co-crystal ligand in 4WV6 (TAF)
+PAK1,PAK1 kinase,2HY8,"(14.162, 70.081, 16.189)",25.9 x 24.0 x 24.0,Co-crystal ligand in 2HY8 (STU)
+GLU1,GLUT1 transporter,5EQI,"(-39.481, 11.268, 12.112)",24.0 x 24.6 x 25.7,Co-crystal ligand in 5EQI (CYB)
+STA3,STAT3,6NJS,"(13.028, 55.637, 0.25)",24.0 x 32.0 x 26.0,Co-crystal ligand in 6NJS (K0S)
+MDM2,MDM2 (p53 pathway),4HG7,"(-23.835, 7.53, -14.053)",24.0 x 26.5 x 24.0,Co-crystal ligand in 4HG7 (NUT)
+WFZD,Frizzled CRD (WNT),6TFB,"(3.012, 12.707, -1.271)",24.0 x 24.0 x 24.0,Co-crystal ligand in 6TFB (Q7L)
+TRXR,Thioredoxin reductase 1,2ZZB,"(-30.783, 4.499, -24.605)",32.0 x 32.0 x 32.0,Co-crystal ligand in 2ZZB (2ZZ)

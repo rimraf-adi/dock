@@ -1,0 +1,105 @@
+compound_id,target_id,compound_name,target_name,priority,rationale
+FEN,BTUB,Fenbendazole,β-Tubulin,HIGH,Direct primary tubulin inhibitor target
+FEN,IMPA,Fenbendazole,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+FEN,PAK1,Fenbendazole,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+FEN,GLU1,Fenbendazole,GLUT1 transporter,HIGH,Published glucose uptake / GLUT inhibition
+FEN,STA3,Fenbendazole,STAT3,MEDIUM,Downstream transcription factor effect
+FEN,MDM2,Fenbendazole,MDM2 (p53 pathway),HIGH,p53 pathway activation & stabilization
+FEN,WFZD,Fenbendazole,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+FEN,TRXR,Fenbendazole,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+IVE,BTUB,Ivermectin,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+IVE,IMPA,Ivermectin,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+IVE,PAK1,Ivermectin,PAK1 kinase,HIGH,Direct PAK1 kinase inhibitor
+IVE,GLU1,Ivermectin,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+IVE,STA3,Ivermectin,STAT3,MEDIUM,Secondary STAT3 inhibition reported in glioblastoma
+IVE,MDM2,Ivermectin,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+IVE,WFZD,Ivermectin,Frizzled CRD (WNT),HIGH,WNT/beta-catenin pathway modulation
+IVE,TRXR,Ivermectin,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+MEB,BTUB,Mebendazole,β-Tubulin,HIGH,Direct tubulin colchicine-site binder
+MEB,IMPA,Mebendazole,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+MEB,PAK1,Mebendazole,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+MEB,GLU1,Mebendazole,GLUT1 transporter,MEDIUM,Benzimidazole class metabolic effect
+MEB,STA3,Mebendazole,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+MEB,MDM2,Mebendazole,MDM2 (p53 pathway),HIGH,p53 signaling activation in cancer cells
+MEB,WFZD,Mebendazole,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+MEB,TRXR,Mebendazole,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+ALB,BTUB,Albendazole,β-Tubulin,HIGH,Tubulin microtubule polymerization inhibitor
+ALB,IMPA,Albendazole,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+ALB,PAK1,Albendazole,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+ALB,GLU1,Albendazole,GLUT1 transporter,HIGH,GLUT inhibition / metabolic stress
+ALB,STA3,Albendazole,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+ALB,MDM2,Albendazole,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+ALB,WFZD,Albendazole,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+ALB,TRXR,Albendazole,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIC,BTUB,Niclosamide,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIC,IMPA,Niclosamide,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+NIC,PAK1,Niclosamide,PAK1 kinase,MEDIUM,Kinase crosstalk in cancer signaling
+NIC,GLU1,Niclosamide,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIC,STA3,Niclosamide,STAT3,HIGH,Direct STAT3 phosphorylation & dimerization inhibitor
+NIC,MDM2,Niclosamide,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+NIC,WFZD,Niclosamide,Frizzled CRD (WNT),HIGH,FZD/Wnt pathway degradation and inhibition
+NIC,TRXR,Niclosamide,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIT,BTUB,Nitazoxanide,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIT,IMPA,Nitazoxanide,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+NIT,PAK1,Nitazoxanide,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIT,GLU1,Nitazoxanide,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+NIT,STA3,Nitazoxanide,STAT3,HIGH,STAT3 transcription factor pathway inhibition
+NIT,MDM2,Nitazoxanide,MDM2 (p53 pathway),HIGH,c-Myc and downstream tumor suppressor regulation
+NIT,WFZD,Nitazoxanide,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+NIT,TRXR,Nitazoxanide,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+PRA,BTUB,Praziquantel,β-Tubulin,MEDIUM,Anthelmintic class tubulin exploration
+PRA,IMPA,Praziquantel,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+PRA,PAK1,Praziquantel,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+PRA,GLU1,Praziquantel,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+PRA,STA3,Praziquantel,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+PRA,MDM2,Praziquantel,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+PRA,WFZD,Praziquantel,Frizzled CRD (WNT),MEDIUM,Calcium/Wnt signaling modulation
+PRA,TRXR,Praziquantel,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+ITR,BTUB,Itraconazole,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+ITR,IMPA,Itraconazole,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+ITR,PAK1,Itraconazole,PAK1 kinase,MEDIUM,Angiogenesis kinase modulation
+ITR,GLU1,Itraconazole,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+ITR,STA3,Itraconazole,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+ITR,MDM2,Itraconazole,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+ITR,WFZD,Itraconazole,Frizzled CRD (WNT),HIGH,Hedgehog & Wnt pathway signaling inhibition
+ITR,TRXR,Itraconazole,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,BTUB,Ketoconazole,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,IMPA,Ketoconazole,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,PAK1,Ketoconazole,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,GLU1,Ketoconazole,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,STA3,Ketoconazole,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,MDM2,Ketoconazole,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,WFZD,Ketoconazole,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+KET,TRXR,Ketoconazole,Thioredoxin reductase 1,MEDIUM,Cytochrome P450 and redox system interaction
+MET,BTUB,Metformin,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+MET,IMPA,Metformin,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+MET,PAK1,Metformin,PAK1 kinase,MEDIUM,AMPK-mediated kinase regulation
+MET,GLU1,Metformin,GLUT1 transporter,HIGH,AMPK activation & glucose transport regulation
+MET,STA3,Metformin,STAT3,MEDIUM,Metformin suppresses STAT3 phosphorylation
+MET,MDM2,Metformin,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+MET,WFZD,Metformin,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+MET,TRXR,Metformin,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,BTUB,Disulfiram,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,IMPA,Disulfiram,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,PAK1,Disulfiram,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,GLU1,Disulfiram,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,STA3,Disulfiram,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,MDM2,Disulfiram,MDM2 (p53 pathway),MEDIUM,Proteasome inhibition stabilizing p53
+DIS,WFZD,Disulfiram,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+DIS,TRXR,Disulfiram,Thioredoxin reductase 1,HIGH,Thiol-reactive proteasome/redox disruption
+CLQ,BTUB,Chloroquine,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+CLQ,IMPA,Chloroquine,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+CLQ,PAK1,Chloroquine,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+CLQ,GLU1,Chloroquine,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+CLQ,STA3,Chloroquine,STAT3,HIGH,Autophagy and STAT3 crosstalk
+CLQ,MDM2,Chloroquine,MDM2 (p53 pathway),MEDIUM,Autophagy arrest leading to p53 induction
+CLQ,WFZD,Chloroquine,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+CLQ,TRXR,Chloroquine,Thioredoxin reductase 1,LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,BTUB,Auranofin,β-Tubulin,LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,IMPA,Auranofin,Importin-α (NLS),LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,PAK1,Auranofin,PAK1 kinase,LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,GLU1,Auranofin,GLUT1 transporter,LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,STA3,Auranofin,STAT3,LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,MDM2,Auranofin,MDM2 (p53 pathway),LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,WFZD,Auranofin,Frizzled CRD (WNT),LOW,Exploratory cross-screening / polypharmacology evaluation
+AUR,TRXR,Auranofin,Thioredoxin reductase 1,HIGH,Direct thioredoxin reductase 1 inhibitor (gold complex)

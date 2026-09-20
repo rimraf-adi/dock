@@ -1,0 +1,11 @@
+compound_name,drug_class,hit_count,mean_affinity,best_affinity
+Mebendazole,Anthelmintic,8,-8.09,-9.56
+Ivermectin,Anthelmintic,7,-9.16,-12.17
+Praziquantel,Anthelmintic,7,-8.69,-10.08
+Ketoconazole,Antifungal,6,-9.38,-11.32
+Itraconazole,Antifungal,5,-8.71,-10.76
+Fenbendazole,Anthelmintic,5,-8.21,-9.1
+Niclosamide,Anthelmintic,5,-8.02,-8.98
+Nitazoxanide,Antiparasitic,4,-7.79,-8.53
+Albendazole,Anthelmintic,2,-7.16,-7.22
+Chloroquine,Antimalarial,1,-7.66,-7.66

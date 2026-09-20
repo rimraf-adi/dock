@@ -1,0 +1,21 @@
+[project]
+name = "docking-study"
+version = "0.1.0"
+description = "Multi-compound multi-target molecular docking screen"
+readme = "PLAN.md"
+requires-python = ">=3.11"
+dependencies = [
+    "rdkit",
+    "openbabel-wheel",
+    "meeko",
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "seaborn",
+    "requests",
+    "biopython",
+]
+
+[tool.uv]
+package = false

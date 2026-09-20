@@ -1,0 +1,9 @@
+target_id,name,gene,relevance,primary_pdb,fallback_pdb,known_ligand_resname,binding_site_description
+BTUB,β-Tubulin,TUBB,Colchicine-site microtubule disruptor (fenbendazole/mebendazole target),4O2B,4TV8,LOC,Colchicine pocket at alpha-beta tubulin interface
+IMPA,Importin-α (NLS),KPNA2,NLS-binding pocket where ivermectin prevents nuclear import,4WV6,2BKU,TAF,Armadillo-repeat NLS recognition groove
+PAK1,PAK1 kinase,PAK1,Catalytic kinase ATP cleft (ivermectin/inhibitor target),2HY8,,STU,ATP-binding cleft between N- and C-terminal lobes
+GLU1,GLUT1 transporter,SLC2A1,Glucose transporter internal cavity (fenbendazole/albendazole metabolic target),5EQI,4PYP,CYB,Inward-facing glucose/cytochalasin B binding cavity
+STA3,STAT3,STAT3,SH2 dimerization domain (niclosamide/nitazoxanide target),6NJS,1BG1,K0S,SH2 domain phosphotyrosine binding pocket
+MDM2,MDM2 (p53 pathway),MDM2,Hydrophobic p53-binding cleft (fenbendazole/repurposed drug target),4HG7,1YCR,NUT,Nutlin-3a small-molecule binding pocket
+WFZD,Frizzled CRD (WNT),FZD8,Cysteine-rich domain lipid groove (niclosamide/Wnt inhibitor target),6TFB,6BD4,Q7L,Druggable lipid groove of Frizzled CRD
+TRXR,Thioredoxin reductase 1,TXNRD1,Redox-active catalytic center (auranofin target),2ZZB,2J3N,2ZZ,C-terminal selenocysteine/redox active site

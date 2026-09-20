@@ -1,0 +1,14 @@
+compound_id,name,pubchem_cid,success,atoms,molecular_weight
+FEN,Fenbendazole,3334,True,34,299.35
+IVE,Ivermectin,6321424,True,136,875.11
+MEB,Mebendazole,4030,True,35,295.3
+ALB,Albendazole,2082,True,33,265.34
+NIC,Niclosamide,4477,True,29,327.12
+NIT,Nitazoxanide,41684,True,30,307.29
+PRA,Praziquantel,4891,True,47,312.41
+ITR,Itraconazole,55283,True,87,705.65
+KET,Ketoconazole,456201,True,64,531.44
+MET,Metformin,4091,True,20,129.17
+DIS,Disulfiram,3117,True,36,296.55
+CLQ,Chloroquine,2719,True,48,319.88
+AUR,Auranofin,6333901,True,67,679.5

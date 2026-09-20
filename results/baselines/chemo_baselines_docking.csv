@@ -1,0 +1,7 @@
+baseline_id,drug_name,role,target_id,target_name,mw,heavy_atoms,clogp,vina_affinity_kcal,LE,LipE,repurposed_comparator
+COL,Colchicine,Standard Tubulin Inhibitor / Gout & Cancer Chemo,BTUB,β-Tubulin,399.44,29,2.87,-7.06,0.243,2.31,Praziquantel & Mebendazole
+NOC,Nocodazole,Canonical Microtubule Depolymerizer,BTUB,β-Tubulin,301.33,21,3.03,-8.766,0.417,3.4,Fenbendazole & Albendazole
+NUT,Nutlin-3a,Gold-Standard Clinical MDM2 Antagonist,MDM2,MDM2 (p53 pathway),581.5,40,5.89,-8.388,0.21,0.26,Praziquantel & Mebendazole
+STT,Stattic,Canonical Small-Molecule STAT3 Inhibitor,STA3,STAT3 SH2 Domain,211.2,14,1.35,-5.615,0.401,2.77,Niclosamide
+BAY,BAY-876,High-Affinity Nanomolar GLUT1 Inhibitor,GLU1,GLUT1 transporter,450.58,33,6.02,-9.214,0.279,0.74,Praziquantel & Ivermectin
+STU,Staurosporine,Broad-Spectrum Kinase Benchmark,PAK1,PAK1 kinase,466.54,35,4.35,-11.37,0.325,3.99,Ketoconazole & Fenbendazole

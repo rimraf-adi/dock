@@ -1,0 +1,126 @@
+compound_id,compound_name,target_id,target_name,pocket,chain,res_num,res_name,min_distance,hbond_count,hydrophobic_count,total_atom_contacts
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,10,GLY,3.7504589250619413,0,0,2
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,11,GLN,3.2088435737143293,1,1,5
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,12,ALA,3.481097894460358,0,10,11
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,15,GLN,3.5621519441364704,0,0,2
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,98,ASP,3.758132212755117,0,1,2
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,99,ALA,3.621725170205516,0,0,1
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,100,ALA,3.8364466463444056,0,0,1
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,101,ASN,3.234808835534977,1,0,5
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,140,SER,3.567228728791109,0,0,2
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,143,GLY,3.2178351836372583,0,1,4
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,144,GLY,3.731883195605091,0,0,1
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,145,THR,3.0926675428199366,1,0,7
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,178,SER,3.502341820436117,0,0,1
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,206,ASN,3.806446075434515,0,0,1
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,A,224,TYR,3.537488448196088,0,13,16
+FEN,Fenbendazole,BTUB,β-Tubulin,Colchicine pocket,B,254,LYS,2.8805989812245687,2,0,5
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,26,PHE,2.6241797616083056,0,6,26
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,80,SER,2.7837194417528752,0,2,7
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,83,VAL,2.5351314745143054,0,2,12
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,137,THR,2.290426781291153,1,0,21
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,138,GLY,2.478269454937214,0,3,13
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,141,PRO,2.502168259754968,0,3,14
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,142,MET,3.099823648091115,0,1,4
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,145,GLY,3.2728681138717746,0,1,3
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,153,ARG,2.6721835699302128,1,3,29
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,154,GLY,2.8221332109130874,1,1,16
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,157,GLY,2.568531987546317,0,3,16
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,160,HIS,3.5747370523407884,0,0,3
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,161,GLN,3.0238712035058475,2,2,16
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,164,ILE,2.9080729740384714,0,0,10
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,288,ASN,3.69637215243705,0,0,1
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,388,TRP,3.0580266014528497,0,21,48
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,389,PHE,3.1315810276877385,0,2,4
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,404,ILE,2.3891906565123335,0,3,22
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,405,ALA,3.930488674140444,0,0,1
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,408,GLY,3.004677245243648,0,2,7
+IVE,Ivermectin,GLU1,GLUT1,Glucose translocation cavity,A,412,TRP,3.5255504500345167,0,2,5
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,105,SER,3.254328645140285,0,0,4
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,138,PHE,3.422035435034513,0,1,3
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,142,TRP,3.395935834487461,0,0,3
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,146,ASN,3.2060202843446683,0,0,4
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,177,HIS,3.2033066947565683,0,1,6
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,181,GLN,3.806824792303838,0,0,1
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,184,TRP,2.5980189364289212,0,9,41
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,224,GLY,3.0724046791505906,0,1,7
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,225,TYR,2.8180354749614196,1,2,15
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,227,ARG,2.359603840657065,1,5,21
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,228,ASN,2.407951284254872,1,2,23
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,231,TRP,3.041634795675331,0,5,18
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,266,GLU,2.5970099702922234,0,3,16
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,269,ALA,2.716547903583814,0,0,9
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,270,ASP,2.5804564724485535,5,0,21
+IVE,Ivermectin,IMPA,Importin-α,Major NLS cargo pocket,A,273,TRP,3.2414949849172565,0,0,7
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,72,GLN,3.3919502128510652,1,0,5
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,75,LEU,3.5226256119416317,0,10,11
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,76,LEU,3.7597363013629743,0,2,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,78,GLN,3.3198270364935545,0,0,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,79,ALA,3.7938352919136134,0,1,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,377,PRO,3.7906198503665482,0,0,1
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,411,TRP,3.479896181219914,0,1,1
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,443,PRO,3.519695371073957,0,4,4
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,A,444,ASN,3.881922690591237,0,0,1
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,72,GLN,3.677436567895208,0,0,3
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,75,LEU,3.257949151684006,0,10,11
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,76,LEU,3.987105587719182,0,1,1
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,78,GLN,3.703759147928918,0,2,3
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,79,ALA,3.8824700784192836,0,2,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,239,HIS,3.445639907770918,0,1,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,377,PRO,3.4035056546891713,0,0,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,378,LEU,3.980258580195524,0,1,1
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,411,TRP,3.4946086592348284,0,5,8
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,416,ARG,2.8064935015208117,1,1,6
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,417,ASP,3.1717796013742015,1,0,1
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,443,PRO,3.3225215009536315,0,2,2
+KET,Ketoconazole,TRXR,TXNRD1,NADPH/FAD interfacial domain,B,444,ASN,3.7146605830526074,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,10,GLY,3.661896232983033,0,0,2
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,11,GLN,3.1090291140064235,1,1,6
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,12,ALA,3.421508416481739,0,9,10
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,15,GLN,3.4787894354617896,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,69,ASP,3.5844655975766364,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,98,ASP,3.623421979192587,0,1,2
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,99,ALA,3.6450314394297827,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,100,ALA,3.872143040376497,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,101,ASN,3.4217997897879924,0,0,2
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,140,SER,3.6069044825336434,0,0,2
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,143,GLY,3.1795459754301576,0,0,3
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,144,GLY,3.714176503832956,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,145,THR,2.9603010065676383,1,0,7
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,171,ILE,3.910509987871108,0,1,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,206,ASN,3.6703802422352276,0,0,2
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,224,TYR,3.240249734145924,0,11,16
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,A,228,ASN,3.4480257354021684,0,0,1
+MEB,Mebendazole,BTUB,β-Tubulin,Colchicine pocket,B,254,LYS,2.9450193148850663,2,0,5
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,24,GLN,1.9683318123491784,3,0,14
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,54,LEU,3.4695021434953524,0,8,9
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,57,LEU,3.768106578232808,0,1,1
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,58,GLY,3.567427917736058,0,1,3
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,61,ILE,3.29331586538648,0,2,2
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,91,PHE,3.9078436389886946,0,2,2
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,93,VAL,3.058968936621556,1,0,4
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,96,HIS,3.3826762807604696,0,9,18
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,99,ILE,3.474370889864531,0,3,4
+MEB,Mebendazole,MDM2,MDM2,p53-transactivation pocket,A,100,TYR,3.402859813649025,0,3,4
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,609,ARG,2.676876176707858,1,0,3
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,611,SER,2.700805289647244,2,0,10
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,612,GLU,3.038823152816774,3,0,5
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,613,SER,2.7956712259505956,2,0,7
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,636,SER,2.9867590991998854,1,1,6
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,637,VAL,3.0610045894997873,0,0,6
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,638,GLU,2.8399101490344303,0,3,13
+NIC,Niclosamide,STA3,STAT3,SH2 dimerization domain,A,639,PRO,3.419661435010144,0,6,8
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,A,101,ASN,3.6072744958432734,0,0,3
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,A,179,THR,3.7113987648447124,0,1,3
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,A,180,ALA,3.960253731663624,0,2,2
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,238,VAL,3.509971505423575,0,0,1
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,242,LEU,3.7390773041204683,0,3,3
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,248,LEU,3.3523544065538338,0,3,4
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,250,ALA,3.659831633456465,0,2,2
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,251,ASP,3.5464664780403883,0,0,2
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,254,LYS,3.9850805108299054,0,0,1
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,255,LEU,3.537002412777671,0,7,7
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,258,ASN,3.0105201015949365,1,0,3
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,316,ALA,3.6128016727603165,0,0,2
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,318,ILE,3.7951008703527966,0,2,2
+PRA,Praziquantel,BTUB,β-Tubulin,Colchicine pocket,B,352,LYS,3.416778083916589,1,1,4
